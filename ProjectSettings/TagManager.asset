@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Low
   - High
+  - LevelElement
+  - Wall
   layers:
   - Default
   - TransparentFX
